@@ -1,7 +1,7 @@
 Runeboard keyboard with Ogham
 =====================
 
-Version 1.1
+Version 1.2
 
 Description
 -----------
@@ -20,7 +20,8 @@ Links
 
 Bug Fixes
 ----------
-<p>Shift key works now.</p>
+<p>V1.1 Shift key works now.</p>
+<p>V1.2 Three-dot punctuation mark no longer adds extra space.</p>
 
 Copyright
 ---------
