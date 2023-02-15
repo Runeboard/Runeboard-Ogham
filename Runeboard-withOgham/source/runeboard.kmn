@@ -74,7 +74,7 @@ group(main) using keys
 + [CTRL ALT K_2] > '/'
 + [CTRL ALT K_1] > '\'
 + [CTRL ALT K_U] > '⁞'
-+ [CTRL ALT K_Y] > '⁝ '
++ [CTRL ALT K_Y] > '⁝'
 + [CTRL ALT K_RBRKT] > ']'
 + [CTRL ALT K_LBRKT] > '['
 + [CTRL ALT K_HYPHEN] > '_'
